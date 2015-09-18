@@ -1,5 +1,5 @@
 # prime_peer_ajax_01
-Hello fellow Primates!
+Hello fellow Primers!
 
 In this challenge you will be reading in JSON values via AJAX and reflecting their values on the screen.
 
